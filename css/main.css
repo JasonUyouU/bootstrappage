@@ -22,6 +22,21 @@ button:hover {
 .h-100vh {
 	height: 100vh;
 }
+h1.vertical-center.p-5.text-white {
+	font-family: 'Pacifico', cursive;
+}
+h2 {
+	font-family: 'Abel', sans-serif;
+}
+h4 {
+	font-family: 'Abel', sans-serif;
+}
+h5 {
+	font-family: 'Pacifico', cursive;
+}
+p {
+	font-family: 'Abel', sans-serif;
+}
 .vertical-center {
 	position: absolute;
 	top: 50%;
@@ -73,8 +88,13 @@ button:hover {
 #bringIt h5 {
 	margin-top: -25%;
 }
+li.text-white {
+	font-family: 'Abel', sans-serif;
+}
+h1.text-white {
+	font-family: 'Pacifico', cursive;
 
-
+}
 
 
 @keyframes shift {
